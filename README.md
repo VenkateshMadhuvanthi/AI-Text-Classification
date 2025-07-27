@@ -40,7 +40,7 @@ The table below summarizes the key characteristics and performance trade-offs of
 
 ---
 
-## 📈 Key Results & Insights
+## Key Results & Insights
 
 - **Longer input texts improved model prediction accuracy.** All BERT models performed better on long paragraphs than short texts.
 - **Human-written text was easier to classify** correctly than AI-generated text across all models.
@@ -59,7 +59,7 @@ The table below summarizes the key characteristics and performance trade-offs of
 
 ---
 
-## 📊 Performance Comparison
+## Performance Comparison
 
 | Model        | Avg. Training Time | Epochs | Accuracy | Precision | Recall | F1-Score |
 |--------------|--------------------|--------|----------|-----------|--------|----------|
@@ -81,7 +81,7 @@ The table below summarizes the key characteristics and performance trade-offs of
 
 ---
 
-## 📏 Evaluation Metrics
+## Evaluation Metrics
 
 All models were evaluated using the following standard metrics:
 
@@ -94,7 +94,7 @@ All models were evaluated using the following standard metrics:
 
 ---
 
-## 🧾 Conclusion
+## Conclusion
 
 This study shows that transformer-based models can effectively classify AI vs. human-written text, particularly when input length is sufficient. Key takeaways:
 
@@ -104,3 +104,26 @@ This study shows that transformer-based models can effectively classify AI vs. h
 - **RoBERTa**, while promising in theory, underperformed in this task due to overprediction of AI class.
 
 **For full methodology, model architecture, experiments, and additional visuals (e.g., training loss graphs and confusion matrices), refer to the full paper included in this repository.**
+
+
+## Contributing
+
+We welcome contributions of all kinds — bug fixes, model improvements, dataset enhancements, or documentation updates.
+
+## Using This Project for Teaching or Training
+
+You are welcome to use this project for **non-commercial educational and research purposes**, such as:
+
+- Machine learning and NLP courses  
+- Lectures or tutorials  
+- Workshops or academic research  
+- Demos related to transformer-based classification
+  
+
+## Contact
+
+For any questions, feedback, collaboration opportunities, or permissions, feel free to get in touch:
+
+- **Email:** madhuvanthivenkatesh@gmail.com  
+- **LinkedIn:** [https://www.linkedin.com/in/madhuvanthi-venkatesh-a1836192/
+](https://www.linkedin.com/in/madhuvanthi-venkatesh-a1836192/)
