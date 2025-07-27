@@ -47,7 +47,9 @@ The table below summarizes the key characteristics and performance trade-offs of
 - **TinyBERT and DistilBERT offered the best balance** of speed and accuracy.
 
 ### Confusion Matrix Summary
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/16320d0d-35a5-4a7e-98a0-61c86c9ebe2f" />
 
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/730714b0-f5f6-4fee-8dfa-84498975b9c1" />
 
 - **BERT**: Strong accuracy, minimal false positives/negatives.
 - **RoBERTa**: High recall, but major drop in precision due to frequent misclassification of human text as AI.
@@ -68,6 +70,8 @@ The table below summarizes the key characteristics and performance trade-offs of
 ---
 
 ## 📉 Training Loss Insights
+
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/f9cd6401-579d-487e-a22e-9273337ef478" />
 
 - **BERT** and **TinyBERT** had smooth, consistent reductions in training loss.
 - **DistilBERT** showed small fluctuations after epoch 4 due to possible overshooting from a higher learning rate.
@@ -97,12 +101,4 @@ This study shows that transformer-based models can effectively classify AI vs. h
 - **BERT** remains a strong baseline with excellent accuracy.
 - **RoBERTa**, while promising in theory, underperformed in this task due to overprediction of AI class.
 
-AI-generated content detection will become increasingly vital. Our results demonstrate that with the right model and setup, effective detection is possible today—and will only improve with future research.
-
----
-
-## 📄 Paper
-
-For full methodology, model architecture, experiments, and additional visuals (e.g., training loss graphs and confusion matrices), refer to the full paper included in this repository.
-
-
+**For full methodology, model architecture, experiments, and additional visuals (e.g., training loss graphs and confusion matrices), refer to the full paper included in this repository.**
