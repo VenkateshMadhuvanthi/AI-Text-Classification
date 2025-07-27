@@ -51,6 +51,7 @@ The table below summarizes the key characteristics and performance trade-offs of
 
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/730714b0-f5f6-4fee-8dfa-84498975b9c1" />
 
+
 - **BERT**: Strong accuracy, minimal false positives/negatives.
 - **RoBERTa**: High recall, but major drop in precision due to frequent misclassification of human text as AI.
 - **DistilBERT**: Comparable accuracy to BERT with faster training.
@@ -69,9 +70,10 @@ The table below summarizes the key characteristics and performance trade-offs of
 
 ---
 
-## 📉 Training Loss Insights
+## Training Loss Insights
 
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/f9cd6401-579d-487e-a22e-9273337ef478" />
+
 
 - **BERT** and **TinyBERT** had smooth, consistent reductions in training loss.
 - **DistilBERT** showed small fluctuations after epoch 4 due to possible overshooting from a higher learning rate.
@@ -88,7 +90,7 @@ All models were evaluated using the following standard metrics:
 - **Recall**: Proportion of actual positives that were correctly identified.
 - **F1-Score**: Harmonic mean of precision and recall.
 
-> All models were trained on Google Colab Pro using a Tesla T4 GPU with the `tqdm` library to monitor progress.
+> All models were trained on Google Colab Pro using a Tesla T4 GPU.
 
 ---
 
