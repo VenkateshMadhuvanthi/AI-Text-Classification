@@ -1,7 +1,7 @@
 ### 👩‍💻 Authors
 
 - [Samyuktha Nair](https://www.linkedin.com/in/samyuktha-nair-b8284529a/)
-- [Arnav Nair] (https://www.linkedin.com/in/arnav-nair-2b1774377/)
+- [Arnav Nair](https://www.linkedin.com/in/arnav-nair-2b1774377/)
 - [Advay Dinesh]
 - [Advait Baijulal](https://www.linkedin.com/in/advait-baijulal-a61b892a6/)
 
