@@ -2,7 +2,7 @@
 
 - [Samyuktha Nair](https://www.linkedin.com/in/samyuktha-nair-b8284529a/)
 - [Arnav Nair](https://www.linkedin.com/in/arnav-nair-2b1774377/)
-- [Advay Dinesh]
+- [Advay Dinesh](https://www.linkedin.com/in/advay-dinesh-6741aa30a/)
 - [Advait Baijulal](https://www.linkedin.com/in/advait-baijulal-a61b892a6/)
 
 ### 🧑‍🏫 Mentor and Project Lead
