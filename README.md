@@ -5,7 +5,7 @@
 - [Advay Dinesh]
 - [Advait Baijulal](https://www.linkedin.com/in/advait-baijulal-a61b892a6/)
 
-### 🧑‍🏫 Mentor
+### 🧑‍🏫 Mentor and Project Lead
 
 - [Madhuvanthi Venkatesh](https://www.linkedin.com/in/madhuvanthi-venkatesh-a1836192/)
 
